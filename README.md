@@ -44,7 +44,7 @@ Install Hijrah Journey
 - Dart
 
 **Server:**
-- Firebase
+- Google Firebase
 
 
 ## Features
